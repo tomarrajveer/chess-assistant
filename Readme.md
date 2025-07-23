@@ -2,7 +2,7 @@
 
 This is a web-based Chess engine assistant built using **React** for the frontend and **Node.js** with **Stockfish** for the backend. Users can input moves, track move history, view the current FEN, and get the best move suggestion calculated by Stockfish.
 
-![Screenshot](https://your-screenshot-url-or-local-path.jpg) <!-- Replace with actual image if hosted -->
+![Screenshot](screenshot.jpg) <!-- Replace with actual image if hosted -->
 
 ---
 
@@ -116,4 +116,4 @@ MIT License
 
 ## 👤 Author
 
-Made with ❤️ by [Your Name](https://github.com/YOUR_USERNAME)
+[Rajveer Tomar](https://github.com/tomarrajveer)
