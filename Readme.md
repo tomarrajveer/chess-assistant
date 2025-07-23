@@ -1,4 +1,4 @@
-# ♟️ Chess AI Move Suggestion App
+# ♟️ Chess Move Suggestion App
 
 This is a web-based Chess engine assistant built using **React** for the frontend and **Node.js** with **Stockfish** for the backend. Users can input moves, track move history, view the current FEN, and get the best move suggestion calculated by Stockfish.
 
